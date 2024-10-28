@@ -1,0 +1,45 @@
+.index {
+  background-image: url('/src/images/world_map.svg');
+  background-size: cover;
+}
+
+.logo{
+  position: relative;
+  size: 20%;
+  margin-left: 20px;
+
+}
+.index p{
+  text-align: center;
+  font-family: Actay-Regular;
+  font-size: 30px;
+  color:white;
+  margin-right: 10px;
+}
+p{
+  text-align: center;
+  font-family: Actay-Regular;
+  font-size: 30px;
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1{
+  text-align: center;
+  font-family: Actay-Regular;
+  color: white;
+  font-size: 100px;
+}
+.zaglushka{
+  position: relative;
+  margin-inline: auto;
+  margin-block-start: 10vh;
+}
+form{
+  text-align: center;
+}
+button {
+  color: #ffffff;
+  background-color: #FF5050;
+  border-radius: 100px;
+}
