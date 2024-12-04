@@ -104,6 +104,12 @@ module.exports = {
       template: './src/articles/petersburg.html',
       filename: './articles/petersburg.html'
     }),
+
+    new HtmlWebpackPlugin({
+      template: './src/articles/london.html',
+      filename: './articles/london.html'
+    }),
+
   ],
   
   optimization: {
